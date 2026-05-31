@@ -1,6 +1,6 @@
 services:
   dns:
-    build: .
+    image: docker.io/agrahamo05/moj-server-dns:latest
     container_name: moj-server-dns
     ports:
       - "53:53/udp"
