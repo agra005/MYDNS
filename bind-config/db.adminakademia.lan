@@ -10,3 +10,4 @@ $TTL 604800
 ns1     IN  A       10.0.20.52
 jenkins     IN  A       10.0.20.51
 robak       IN  A       10.0.20.59
+robak3      IN  A       10.0.20.55
